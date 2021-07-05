@@ -176,6 +176,7 @@ header {
 
 .current-project {
   margin: 20px;
+  width: 150px;
   background: rgba(0, 0, 0, 0.822);
   color: #fff;
   flex: 1;
@@ -249,7 +250,7 @@ header {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 75%;
+  width: 70%;
   padding-top: 30px;
   padding-bottom: 30px;
 }
