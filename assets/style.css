@@ -274,6 +274,11 @@ header {
 
 .project-bio p {
   font-size: 17px;
+  text-align: center;
+}
+
+.project-bio a {
+  color:firebrick;
 }
 
 .section-title {
@@ -370,13 +375,6 @@ header {
 /*End of Skills*/
 
 
-
-/* Resume
-.resume-title {
-  background: rgbargba(0, 0, 0, 0.884);
-}
-
-END of Resume */
 
 
 /*Contact Me*/
